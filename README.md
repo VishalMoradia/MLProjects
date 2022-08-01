@@ -1,3 +1,3 @@
-## Machine Learning with Heart Disease dataset. 
+## Machine Learning Projects.
 
-In this notebook I tried to play with some sklearn features while exploring and visualizing the heart disease data we have given. Basically I tried to show distribution of data, relations between variables and target as well as correlations between each other then did some basic model building.
+In this repository, I am putting out the projects inspired from Kaggle and Udemy to practice and learn about machine learning models. These notebooks are exclusively for practice and learning purposes. 
